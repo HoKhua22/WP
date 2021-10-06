@@ -11,6 +11,8 @@ Link to learn theme development:  https://www.youtube.com/watch?v=WbGlhhRLEbA&li
 
 http://hothikhua.infinityfreeapp.com
 
+https://www.youtube.com/watch?v=l8jAP-RVfis
+
 Administrative URL : http://hothikhua.infinityfreeapp.com/wp-admin/
 
 php date format: https://www.php.net/manual/en/function.date.php
