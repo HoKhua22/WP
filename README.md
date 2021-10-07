@@ -16,3 +16,5 @@ https://www.youtube.com/watch?v=l8jAP-RVfis
 Administrative URL : http://hothikhua.infinityfreeapp.com/wp-admin/
 
 php date format: https://www.php.net/manual/en/function.date.php
+
+https://huykira.net/videos/bai-10-2-xay-dung-trang-chi-tiet-san-pham-phan-san-pham-lien-quan 
