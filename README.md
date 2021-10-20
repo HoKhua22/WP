@@ -18,3 +18,5 @@ Administrative URL : http://hothikhua.infinityfreeapp.com/wp-admin/
 php date format: https://www.php.net/manual/en/function.date.php
 
 https://huykira.net/videos/bai-10-2-xay-dung-trang-chi-tiet-san-pham-phan-san-pham-lien-quan 
+
+https://gist.github.com/esskabar/b06a9aeb742aec2bd2222da9aae09a09
