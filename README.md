@@ -20,3 +20,7 @@ php date format: https://www.php.net/manual/en/function.date.php
 https://huykira.net/videos/bai-10-2-xay-dung-trang-chi-tiet-san-pham-phan-san-pham-lien-quan 
 
 https://gist.github.com/esskabar/b06a9aeb742aec2bd2222da9aae09a09
+
+https://www.youtube.com/watch?v=MAVHIC9DMrs
+
+https://www.youtube.com/watch?v=I-P183PvRIQ
